@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  .cv-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+  }
+  .cv-left {
+    flex: 1;
+    margin-right: 20px;
+    background-color: #334d62;
+    padding: 20px;
+    color: aliceblue;
+  }
+  .cv-right {
+    flex: 2;
+  }
+  .cv-section {
+    margin-bottom: 10px;
+  }
+  .cv-section h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  .cv-section p {
+    line-height: 1.5;
+  }
+  .experience, .formation, .skills, .interests {
+    background-color: #e7e7e7;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .cv-title {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  .cv-title h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  .cv-title h2 {
+    font-size: 1.5em;
+  }
+  h2 {
+    margin: 0px;
+  }
+
+  ul {
+    margin: 0px;
+  }
+
+  a {
+    color: aliceblue;
+  }
