@@ -14,4 +14,8 @@ Clonez le repository
 ```bash
 git clone https://github.com/Packingdustry/cv-template.git
 ```
+Basculez sur la branche `main-fr`
+```bash
+git checkout main-fr
+```
 Le modèle est du simple HTML/CSS vanilla, vous avez seulement besoin d'un éditeur de texte pour le modifier et d'un navigateur pour le visualiser.
