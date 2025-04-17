@@ -1,19 +1,17 @@
+*You are on the French version, go to `main` branch for English version.*
 # CV Template
-This is a template for my CV (Curriculum Vitæ), or résumé, you call it as you want. 
+Ceci est le modèle de mon CV.
 
-This repository is avaliable under the CC0 license.<br><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/CC_Zero_badge.svg" height="32">
+Ce repository est disponnible sous licence CC0.<br><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/CC_Zero_badge.svg" height="32">
 
-Feel free to use it, modify and share in any conditions you want. 
+Vous êtes libre de l'utiliser, le modifier et le partager comme vous voulez.
 
-For the French version, go to the branch `main-fr`. 
+## Exemple de capture d'écran
+![capture d'écran du modèle](images/screenshot.png)
 
-## Screenshot example
-![screenshot of the template](images/screenshot.png)
-
-## Installing and using
-Clone the repository with 
+## Installation et utilisation
+Clonez le repository
 ```bash
 git clone https://github.com/Packingdustry/cv-template.git
 ```
-
-This is just vanilla HTML/CSS, all you need is a text editor to modify it and a web browser to render it. 
+Le modèle est du simple HTML/CSS vanilla, vous avez seulement besoin d'un éditeur de texte pour le modifier et d'un navigateur pour le visualiser.
